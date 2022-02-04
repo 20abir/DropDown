@@ -38,6 +38,7 @@ class _HomePageState extends State<HomePage> {
       {"ID": 3, "Name": "Asam", "ParentId": 2},
       {"ID": 4, "Name": "Punjab", "ParentId": 2},
       {"ID": 5, "Name": "Pune", "ParentId": 2},
+      {"ID": 6, "Name": "Bengalor", "ParentId": 2},
     ];
   }
 
